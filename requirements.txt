@@ -1,0 +1,13 @@
+# Core Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Database / SQL
+sqlalchemy
+
+# Excel / CSV handling
+openpyxl

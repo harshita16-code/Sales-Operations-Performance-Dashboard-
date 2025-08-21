@@ -21,17 +21,12 @@ The goal of this project is to **enable data-driven decisions** by visualizing p
 ├── dashboards/ # Dashboard images (PNG files)
 │ ├── sales_dashboard.png
 │ ├── efficiency_dashboard.png
-│ ├── kpi_summary_dashboard.png
-│ ├── trend_analysis_dashboard.png
-│ ├── regional_sales_dashboard.png
-│ ├── regional_efficiency_dashboard.png
 │ └── combined_dashboard.png
 ├── scripts/ # SQL queries, Excel files, and Python scripts
 │ ├── queries.sql
 │ ├── dashboard_excel.xlsx
 │ └── visualization.py
 └── README.md # Project documentation
-
 
 ---
 

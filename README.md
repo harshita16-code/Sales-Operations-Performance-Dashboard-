@@ -36,10 +36,10 @@ The goal of this project is to **enable data-driven decisions** by visualizing p
 ![Sales Dashboard](dashboards/sales_performance_dashboard.png)  
 
 ### 🔹 Operational Efficiency Dashboard  
-![Efficiency Dashboard](dashboards/efficiency_dashboard.png)  
+![Efficiency Dashboard](dashboards/operations_efficiency_dashboard.png)  
 
 ### 🔹 Combined Sales & Operations Dashboard  
-![Combined Dashboard](dashboards/combined_dashboard.png)  
+![Combined Dashboard](dashboards/sales_performance_combined_dashboard.png)  
 
 ---
 

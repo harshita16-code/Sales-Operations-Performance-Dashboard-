@@ -1,0 +1,9 @@
+Region,Month,Sales,Efficiency,SuccessRate
+North,Jan,12000,85,92
+South,Jan,8500,78,89
+East,Jan,9100,82,90
+West,Jan,15000,88,95
+North,Feb,13000,86,93
+South,Feb,9200,79,88
+East,Feb,10200,81,89
+West,Feb,14300,87,94

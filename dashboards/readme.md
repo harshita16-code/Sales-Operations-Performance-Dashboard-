@@ -7,7 +7,7 @@ This project includes 3 interactive dashboards built using **Excel, SQL, and Pow
 - Identifies top-performing regions & products
 - Highlights trends for decision-making  
 
-![Sales Dashboard](dashboards/sales_dashboard.png)
+![Sales Dashboard](dashboards/sales_performance_dashboard.png)
 
 ---
 
@@ -16,7 +16,7 @@ This project includes 3 interactive dashboards built using **Excel, SQL, and Pow
 - Provides a unified view of revenue & efficiency
 - Helps stakeholders align performance  
 
-![Combined Sales & Operations Dashboard](dashboards/combined_sales_operations.png)
+![Combined Sales & Operations Dashboard](dashboards/sales_operations_combined_dashboard.png)
 
 ---
 
@@ -25,4 +25,4 @@ This project includes 3 interactive dashboards built using **Excel, SQL, and Pow
 - Identifies underperforming regions
 - Supports process optimization  
 
-![Operational Efficiency Dashboard](dashboards/operational_efficiency.png)
+![Operational Efficiency Dashboard](dashboards/operational_efficiency_dashboard.png)
